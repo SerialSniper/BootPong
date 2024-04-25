@@ -9,6 +9,6 @@ At the start of the game, the ball is served to the right player.<br>
 After scoring, the ball is served to the player who scored.<br>
 
 **W** and **S** are used to command the left paddle.<br>
-**I** and **J** are used to command the right paddle.<br>
+**I** and **K** are used to command the right paddle.<br>
 
 The game never ends, but the score counters will eventually overflow after 255.
